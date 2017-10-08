@@ -1,0 +1,16 @@
+===20171005-004629,main[122]=== login:[user=green,pwd=123,type=10]
+===20171005-004629,process_result[42]=== 1 rows returned 
+
+===20171005-004629,process_result[51]=== 0 row is 123
+===20171005-004707,main[122]=== login:[user=red,pwd=123,type=10]
+===20171005-004707,process_result[42]=== 1 rows returned 
+
+===20171005-004707,process_result[51]=== 0 row is 123
+===20171005-025535,main[122]=== login:[user=green,pwd=123,type=10]
+===20171005-025535,process_result[42]=== 1 rows returned 
+
+===20171005-025535,process_result[51]=== 0 row is 123
+===20171005-031546,main[122]=== login:[user=red,pwd=123,type=10]
+===20171005-031546,process_result[42]=== 1 rows returned 
+
+===20171005-031546,process_result[51]=== 0 row is 123

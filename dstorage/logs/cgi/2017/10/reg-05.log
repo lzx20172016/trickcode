@@ -1,0 +1,14 @@
+===20171005-003343,deal_reg_query[98]=== insert succ!
+===20171005-003343,process_result_get_uid[36]=== 1 rows returned 
+
+===20171005-003343,process_result_get_uid[45]=== 0 row is 14
+===20171005-003343,deal_reg_query[109]=== select succ! u_id=14!
+===20171005-003343,deal_reg_query[118]=== redis insert USER_USERID_HASH succ!
+===20171005-003343,deal_reg_query[121]=== done!
+===20171005-031954,deal_reg_query[98]=== insert succ!
+===20171005-031954,process_result_get_uid[36]=== 1 rows returned 
+
+===20171005-031954,process_result_get_uid[45]=== 0 row is 15
+===20171005-031954,deal_reg_query[109]=== select succ! u_id=15!
+===20171005-031954,deal_reg_query[118]=== redis insert USER_USERID_HASH succ!
+===20171005-031954,deal_reg_query[121]=== done!

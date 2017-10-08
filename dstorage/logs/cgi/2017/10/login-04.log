@@ -1,0 +1,58 @@
+===20171004-103819,main[122]=== login:[user=,pwd=,type=]
+===20171004-103819,process_result[42]=== 0 rows returned 
+
+===20171004-103824,main[122]=== login:[user=,pwd=,type=]
+===20171004-103824,process_result[42]=== 0 rows returned 
+
+===20171004-104311,main[122]=== login:[user=,pwd=,type=]
+===20171004-104311,process_result[42]=== 0 rows returned 
+
+===20171004-104312,main[122]=== login:[user=,pwd=,type=]
+===20171004-104312,process_result[42]=== 0 rows returned 
+
+===20171004-104317,main[122]=== login:[user=,pwd=,type=]
+===20171004-104317,process_result[42]=== 0 rows returned 
+
+===20171004-105142,main[122]=== login:[user=,pwd=,type=]
+===20171004-105142,process_result[42]=== 1 rows returned 
+
+===20171004-105142,process_result[51]=== 0 row is ¸Y¢A
+===20171004-105333,main[122]=== login:[user=,pwd=,type=]
+===20171004-105333,process_result[42]=== 1 rows returned 
+
+===20171004-105333,process_result[51]=== 0 row is ¸Y¢A
+===20171004-105333,main[122]=== login:[user=,pwd=,type=]
+===20171004-105333,process_result[42]=== 1 rows returned 
+
+===20171004-105333,process_result[51]=== 0 row is ¸Y¢A
+===20171004-105338,main[122]=== login:[user=,pwd=,type=]
+===20171004-105338,process_result[42]=== 1 rows returned 
+
+===20171004-105338,process_result[51]=== 0 row is ¸Y¢A
+===20171004-105844,main[122]=== login:[user=,pwd=,type=]
+===20171004-105844,process_result[42]=== 1 rows returned 
+
+===20171004-105844,process_result[51]=== 0 row is ¸Y¢A
+===20171004-105849,main[122]=== login:[user=,pwd=,type=]
+===20171004-105849,process_result[42]=== 1 rows returned 
+
+===20171004-105849,process_result[51]=== 0 row is ¸Y¢A
+===20171004-110444,main[122]=== login:[user=11,pwd=11,type=10]
+===20171004-110444,process_result[42]=== 0 rows returned 
+
+===20171004-111300,main[122]=== login:[user=11,pwd=22,type=10]
+===20171004-111300,process_result[42]=== 1 rows returned 
+
+===20171004-111300,process_result[51]=== 0 row is 22
+===20171004-223239,main[122]=== login:[user=green,pwd=123,type=10]
+===20171004-223239,process_result[42]=== 1 rows returned 
+
+===20171004-223239,process_result[51]=== 0 row is 123
+===20171004-224341,main[122]=== login:[user=green,pwd=123,type=10]
+===20171004-224341,process_result[42]=== 1 rows returned 
+
+===20171004-224341,process_result[51]=== 0 row is 123
+===20171004-225835,main[122]=== login:[user=green,pwd=123,type=10]
+===20171004-225835,process_result[42]=== 1 rows returned 
+
+===20171004-225835,process_result[51]=== 0 row is 123
